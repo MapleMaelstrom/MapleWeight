@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="019a737e-9d36-463e-8b07-a95a0ee98bfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MapleWeight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/diana.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/dungeons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/farming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/fishing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/foraging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/generic_skills.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/mining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/mw_utils/Accessory_Lines.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/mw_utils/Crimson_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/mw_utils/MP_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/slayers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_weights/weapons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mapleWeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
+    <list default="true" id="019a737e-9d36-463e-8b07-a95a0ee98bfa" name="Changes" comment="add initial codebase">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individual_weights/mw_utils/Accessory_Lines.json" beforeDir="false" afterPath="$PROJECT_DIR$/individual_weights/mw_utils/Accessory_Lines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile_cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/profile_cache.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MapleMaelstrom&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MapleMaelstrom/MapleWeight.git&quot;,
+    &quot;accountId&quot;: &quot;dfbbbd2d-8fbb-4035-9e59-4818adeb64fd&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/get_data.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/individual_weights/dungeons.py" root0="SKIP_INSPECTION" />
@@ -152,6 +144,27 @@
       <option name="presentableId" value="Default" />
       <updated>1746557920714</updated>
     </task>
+    <task id="LOCAL-00001" summary="add initial codebase">
+      <option name="closed" value="true" />
+      <created>1749013398723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749013398723</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add initial codebase">
+      <option name="closed" value="true" />
+      <created>1749013407228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749013407228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add initial codebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="add initial codebase" />
   </component>
 </project>

@@ -1,10 +1,4 @@
 {
-  "Actually Blue™ Abicase": [
-    [
-      "Actually Blue™ Abicase",
-      "ACTUALLY_BLUE_ABICASE"
-    ]
-  ],
   "Agarimoo Artifact line": [
     [
       "Agarimoo Talisman",
@@ -22,28 +16,28 @@
   "Anita's Artifact line": [
     [
       "Anita's Talisman",
-      "ANITAS_TALISMAN"
+      "ANITA_TALISMAN"
     ],
     [
       "Anita's Ring",
-      "ANITAS_RING"
+      "ANITA_RING"
     ],
     [
       "Anita's Artifact",
-      "ANITAS_ARTIFACT"
+      "ANITA_ARTIFACT"
     ]
   ],
   "Archaeologist's Compass": [
     [
       "Archaeologist's Compass",
-      "ARCHAEOLOGISTS_COMPASS"
+      "ARCHAEOLOGIST_COMPASS"
     ]
   ],
   "Artifact Of Power line": [
-    ["Talisman Of Power", "TALISMAN_OF_POWER"],
-    ["Ring Of Power", "RING_OF_POWER"],
-    ["Artifact Of Power", "ARTIFACT_OF_POWER"],
-    ["Relic Of Power", "RELIC_OF_POWER"]
+    ["Talisman Of Power", "POWER_TALISMAN"],
+    ["Ring Of Power", "POWER_RING"],
+    ["Artifact Of Power", "POWER_ARTIFACT"],
+    ["Relic Of Power", "POWER_RELIC"]
   ],
   "Auto Recombobulator": [
     [
@@ -121,24 +115,6 @@
       "BLOOD_GOD_CREST"
     ]
   ],
-  "Blue™ But Green Abicase": [
-    [
-      "Blue™ But Green Abicase",
-      "BLUE_BUT_GREEN_ABICASE"
-    ]
-  ],
-  "Blue™ But Red Abicase": [
-    [
-      "Blue™ But Red Abicase",
-      "BLUE_BUT_RED_ABICASE"
-    ]
-  ],
-  "Blue™ But Yellow Abicase": [
-    [
-      "Blue™ But Yellow Abicase",
-      "BLUE_BUT_YELLOW_ABICASE"
-    ]
-  ],
   "Bucket Of Dye": [
     [
       "Bucket Of Dye",
@@ -155,26 +131,26 @@
       "BURSTSTOPPER_ARTIFACT"
     ]
   ],
-  "Campfire God Badge line": [
+  "Campfire Badges": [
     [
       "Campfire Initiate Badge",
-      "CAMPFIRE_BADGE_1"
+      "CAMPFIRE_TALISMAN_1"
     ],
     [
       "Campfire Adept Badge",
-      "CAMPFIRE_BADGE_2"
+      "CAMPFIRE_TALISMAN_4"
     ],
     [
       "Campfire Cultist Badge",
-      "CAMPFIRE_BADGE_3"
+      "CAMPFIRE_TALISMAN_8"
     ],
     [
       "Campfire Scion Badge",
-      "CAMPFIRE_BADGE_4"
+      "CAMPFIRE_TALISMAN_13"
     ],
     [
       "Campfire God Badge",
-      "CAMPFIRE_BADGE_5"
+      "CAMPFIRE_TALISMAN_21"
     ]
   ],
   "Candy Relic line": [
@@ -424,19 +400,19 @@
   "Golden Jerry Artifact line": [
     [
       "Green Jerry Talisman",
-      "GREEN_JERRY_TALISMAN"
+      "JERRY_TALISMAN_GREEN"
     ],
     [
       "Blue Jerry Talisman",
-      "BLUE_JERRY_TALISMAN"
+      "JERRY_TALISMAN_BLUE"
     ],
     [
       "Purple Jerry Talisman",
-      "PURPLE_JERRY_TALISMAN"
+      "JERRY_TALISMAN_PURPLE"
     ],
     [
       "Golden Jerry Artifact",
-      "GOLDEN_JERRY_ARTIFACT"
+      "JERRY_TALISMAN_GOLDEN"
     ]
   ],
   "Great Spook Artifact line": [
@@ -463,6 +439,10 @@
     [
       "Haste Ring",
       "HASTE_RING"
+    ],
+    [
+      "Haste Artifact",
+      "HASTE_ARTIFACT"
     ]
   ],
   "Handy Blood Chalice": [
@@ -761,6 +741,14 @@
     [
       "Piggy Bank",
       "PIGGY_BANK"
+    ],
+    [
+      "Broken Piggy Bank",
+      "BROKEN_PIGGY_BANK"
+    ],
+    [
+      "CRACKED Piggy Bank",
+      "CRACKED_PIGGY_BANK"
     ]
   ],
   "Pig's Foot": [
@@ -788,11 +776,11 @@
     ],
     [
       "Potion Affinity Ring",
-      "POTION_AFFINITY_RING"
+      "RING_POTION_AFFINITY"
     ],
     [
       "Potion Affinity Artifact",
-      "POTION_AFFINITY_ARTIFACT"
+      "ARTIFACT_POTION_AFFINITY"
     ]
   ],
   "Pulse Ring": [
@@ -810,23 +798,23 @@
   "Razor-sharp Shark Tooth Necklace line": [
     [
       "Raggedy Shark Tooth Necklace",
-      "SHARK_TOOTH_NECKLACE_COMMON"
+      "RAGGEDY_SHARK_TOOTH_NECKLACE"
     ],
     [
       "Dull Shark Tooth Necklace",
-      "SHARK_TOOTH_NECKLACE_UNCOMMON"
+      "DULL_SHARK_TOOTH_NECKLACE"
     ],
     [
       "Honed Shark Tooth Necklace",
-      "SHARK_TOOTH_NECKLACE_RARE"
+      "HONED_SHARK_TOOTH_NECKLACE"
     ],
     [
       "Sharp Shark Tooth Necklace",
-      "SHARK_TOOTH_NECKLACE_EPIC"
+      "SHARP_SHARK_TOOTH_NECKLACE"
     ],
     [
       "Razor-sharp Shark Tooth Necklace",
-      "SHARK_TOOTH_NECKLACE_LEGENDARY"
+      "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
     ]
   ],
   "Zombie Artifact line": [
@@ -854,7 +842,7 @@
   "Relic Of Coins line": [
     [
       "Talisman Of Coins",
-      "TALISMAN_OF_COINS"
+      "COIN_TALISMAN"
     ],
     [
       "Ring Of Coins",
@@ -1013,16 +1001,10 @@
       "FERMENTO_ARTIFACT"
     ]
   ],
-  "Sumsung© G3 Abicase": [
+  "Abicase": [
     [
-      "Sumsung© G3 Abicase",
-      "SUMSUNG_G3_ABICASE"
-    ]
-  ],
-  "Sumsung© GG Abicase": [
-    [
-      "Sumsung© GG Abicase",
-      "SUMSUNG_GG_ABICASE"
+      "Abicase",
+      "ABICASE"
     ]
   ],
   "Survivor Cube": [
@@ -1148,6 +1130,100 @@
     [
       "Seal Ring",
       "SEAL_RING"
+    ]
+  ],
+  "Blood Donor Line": [
+    [
+      "Blood Donor Talisman",
+      "BLOOD_DONOR_TALISMAN"
+    ],
+    [
+      "Blood Donor Ring",
+      "BLOOD_DONOR_RING"
+    ],
+    [
+      "Blood Donor Artifact",
+      "BLOOD_DONOR_ARTIFACT"
+    ]
+  ],
+  "Bluetooth Rings": [
+    [
+      "Bluetooth Ring",
+      "BLUETOOTH_RING"
+    ],
+    [
+      "Bluertooth Ring",
+      "BLUERTOOTH_RING"
+    ]
+  ],
+  "Kuudra Cores": [
+    [
+      "Burning Kuudra Core",
+      "BURNING_KUUDRA_CORE"
+    ],
+    [
+      "Fiery Kuudra Core",
+      "FIERY_KUUDRA_CORE"
+    ],
+    [
+      "Infernal Kuudra Core",
+      "INFERNAL_KUUDRA_CORE"
+    ]
+  ],
+  "Junk Line": [
+    [
+      "Junk Talisman",
+      "JUNK_TALISMAN"
+    ],
+    [
+      "Junk Ring",
+      "JUNK_RING"
+    ],
+    [
+      "Junk Artifact",
+      "JUNK_ARTIFACT"
+    ]
+  ],
+  "Hunter Line": [
+    [
+      "Hunter Ring",
+      "HUNTER_RING"
+    ],
+    [
+      "Hunter Talisman",
+      "HUNTER_TALISMAN"
+    ]
+  ],
+  "IQ Points": [
+    [
+      "1 IQ Point",
+      "IQ_POINT"
+    ],
+    [
+      "2 IQ Points",
+      "TWO_IQ_POINT"
+    ]
+  ],
+  "Chocolate Line": [
+    [
+      "Nibble Chocolate Stick",
+      "NIBBLE_CHOCOLATE_STICK"
+    ],
+    [
+      "Smooth Chocolate Bar",
+      "SMOOTH_CHOCOLATE_BAR"
+    ],
+    [
+      "Rich Chocolate Chunk",
+      "RICH_CHOCOLATE_CHUNK"
+    ],
+    [
+      "Ganache Chocolate Slab",
+      "GANACHE_CHOCOLATE_SLAB"
+    ],
+    [
+      "Prestige Chocolate Realm",
+      "PRESTIGE_CHOCOLATE_REALM"
     ]
   ]
 }
